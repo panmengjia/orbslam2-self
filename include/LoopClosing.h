@@ -33,6 +33,9 @@
 #include <mutex>
 #include "Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h"
 
+//pmj-----------------------------------------------------------------------------------
+#include <unistd.h>
+//pmj-----------------------------------------------------------------------------------
 namespace ORB_SLAM2
 {
 
